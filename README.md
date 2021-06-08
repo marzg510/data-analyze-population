@@ -33,4 +33,7 @@ Analyzing Population Data
 |xx12gsnen.xls|年齢別人口（市区町村別）（外国人住民）            | 2013年〜|
  
  
+### World Population
+- 人口データ(国連）
+    - https://population.un.org/wpp/Download/Standard/Population/
  

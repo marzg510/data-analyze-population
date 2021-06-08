@@ -37,3 +37,7 @@ Analyzing Population Data
 - 人口データ(国連）
     - https://population.un.org/wpp/Download/Standard/Population/
  
+### World Country Code
+- 国コード(ISO-3116)
+ - Online Blowsing Platformより拝借しXLS形式へコピペ
+ - https://www.iso.org/iso-3166-country-codes.html
